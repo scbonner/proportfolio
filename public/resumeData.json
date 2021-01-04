@@ -3,38 +3,28 @@
     "name": "Sadric Bonner",
     "occupation": "Software Engineer",
     "description": "Frontend ReactJS Developer",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "image": "Profile Pic.jpg",
+    "bio": "My name is Sadric, and I'm currently a Frontend ReactJS Developer. working at Code the Dream.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
+    "email": "scbonner2015@gmail.com",
     "phone": "(336) 209-4060",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Hollywood",
-      "state": "CA",
-      "zip": "90035"
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
-        "className": "fa fa-facebook"
-      },
+  
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/sadric-bonner-079236149/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/scbonner",
         "className": "fa fa-github"
       }
     ]
@@ -66,11 +56,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
-        "name": "Python",
-        "level": "95%"
+        "name": "Styled Components",
+        "level": "90%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
       },
       {
         "name": "Git",
@@ -78,7 +72,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "MongoDB",
